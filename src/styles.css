@@ -48,3 +48,11 @@ input[type=text], input[type=email]{
   font-size: 13px;
   background-color: var(--primary-color);
 }
+
+.bg-secondary-theme{
+  background-color: var(--secondary-color);
+}
+
+.text-theme-primary{
+  color: var(--primary-color);
+}
